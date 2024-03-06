@@ -1,4 +1,4 @@
-# Whacky-Tales-Weaver
+# whacky_tales_weaver
 This project implements a Wacky Tales Weaver application using HTML, CSS, and JavaScript. It allows users to create fun stories by clicking on images, which dynamically change and contribute to the story.
 
 # Features
